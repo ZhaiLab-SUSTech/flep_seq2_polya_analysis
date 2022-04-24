@@ -1,4 +1,4 @@
-from baseseq_tool import revcom
+from bugv.baseseq_tool import revcom
 import pandas as pd
 import pysam
 
