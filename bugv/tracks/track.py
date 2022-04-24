@@ -6,7 +6,6 @@ import matplotlib
 from matplotlib import patches
 import mpl_toolkits.axisartist as axisartist
 import matplotlib.lines as lines
-from bugff import GffRead
 import bugv.utilities 
 import os
 import pickle
