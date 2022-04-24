@@ -1,1 +1,1 @@
-from bugff import GffRead
+from bugv.bugff import GffRead
