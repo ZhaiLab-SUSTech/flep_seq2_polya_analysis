@@ -1,0 +1,13 @@
+# Python:
+*.py[odc]
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+*.DS_Store
+*.e[0-9][0-9][0-9][0-9][0-9][0-9]
+*.o[0-9][0-9][0-9][0-9][0-9][0-9]
+dist
+build

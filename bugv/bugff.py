@@ -1,5 +1,5 @@
 import re
-import buseq
+import bugv.buseq as buseq
 import sys
 import os
 from collections import defaultdict

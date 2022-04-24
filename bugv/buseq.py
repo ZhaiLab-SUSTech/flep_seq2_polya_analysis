@@ -1,5 +1,5 @@
 import os
-import bupy
+import bugv.bupy as bupy
 import collections
 import gzip
 from collections import defaultdict

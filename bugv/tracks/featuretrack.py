@@ -4,7 +4,7 @@ from matplotlib.collections import PatchCollection
 from matplotlib import patches
 import mpl_toolkits.axisartist as axisartist
 import matplotlib.lines as lines
-from bugff import GffRead
+from bugv.bugff import GffRead
 from bugv.readers.feature import BedFeatures
 from bugv.readers.fulllengthrnabam import FulllengthBam, RNABamFeature
 import numpy as np
