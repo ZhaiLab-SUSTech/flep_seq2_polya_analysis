@@ -1,0 +1,3 @@
+[submodule "bugv"]
+	path = bugv
+	url = https://github.com/jiajinbu/bugv
